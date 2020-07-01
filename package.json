@@ -1,0 +1,25 @@
+{
+  "name": "npm-package-public",
+  "version": "1.0.0",
+  "description": "the hopeless package of your saddest dreams",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rarehax/npm-package-public.git"
+  },
+  "keywords": [
+    "do",
+    "not",
+    "use"
+  ],
+  "author": "rarehax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rarehax/npm-package-public/issues"
+  },
+  "homepage": "https://github.com/rarehax/npm-package-public#readme",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+}
