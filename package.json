@@ -1,6 +1,6 @@
 {
   "name": "@rarehax/npm-package-public",
-  "version": "2.0.3",
+  "version": "2.0.0",
   "description": "the hopeless package of your saddest dreams",
   "main": "index.js",
   "scripts": {
